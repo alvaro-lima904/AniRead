@@ -1,2 +1,2 @@
 # AniRead
-Um projeto que eu fiz baseado no terceiro projeto do curso de full stack da udemy
+Um projeto que eu fiz baseado no terceiro projeto do curso de full stack da udemy para ganhar experiência
