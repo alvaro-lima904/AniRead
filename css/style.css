@@ -1,0 +1,128 @@
+/* 
+**** Layout ****
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background-color: #f1f1f1;
+}
+
+#cabecalho{
+    text-align: center;
+    padding: 15px;
+    background-color: #006eff;
+}
+
+.principal{
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+
+.area-postagem{
+    width: 660px;
+    float: left;
+}
+
+.postagem{
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.lateral{
+    width: 240px;
+    float: right;
+}
+
+.lateral-postagem, .lateral-categorias{
+    background-color: #fff;
+    padding: 10px;
+}
+
+.texto-lateral{
+    font-size: .8em;
+    margin-bottom: 10px;
+    border-bottom: 1px dashed #ccc;
+}
+
+#rodape{
+    background-color: #006eff;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    color: #ffff;
+    font-size: 1.2em;
+}
+
+/* 
+**** Formatações do Menu ****
+*/
+
+.cabecalho-menu{
+    padding: 15px;
+}
+
+.cabecalho-menu a{
+    text-decoration: none;
+    padding: 8px 12px;
+    color: #f1f1f1;
+}
+
+.cabecalho-menu a:hover{
+    background-color: #fff;
+    color: #006eff;
+    text-decoration: none;
+}
+
+/* 
+****Formatações em geral ****
+*/
+
+h1{
+    font-size: 2.5em;
+    color: #e6e6e6;
+    padding: 15px;
+}
+
+h2{
+    color: #006eff;
+    font-size: 1.8em;
+}
+
+a{
+    text-decoration: none;
+    color: #006eff;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+img{
+    width: 550px;
+}
+
+.cinza{
+    color: #333333;
+}
+
+.data-postagem{
+    font-size: .8em;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+.lateral-titulo{
+    padding: 10px;
+    background-color: #ccc;
+    color: #424242;
+}
+
